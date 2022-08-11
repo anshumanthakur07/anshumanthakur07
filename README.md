@@ -1,4 +1,4 @@
-<p align="center">( https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)</p>
+( https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)</p>
 <h1 align="center">Hi 👋, I'm Anshuman Singh</h1>
 <h3 align="center">Learning Full stack web development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
